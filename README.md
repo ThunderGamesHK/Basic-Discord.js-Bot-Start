@@ -6,3 +6,4 @@
     To make it run in the console of your Code Editor, preferably Visual Studio Code found here: https://code.visualstudio.com/ []
     Run These command(s) one at a time: npm install discord.js, npm init []
     Here is the docs for Discord.js: https://discord.js.org/#/docs/main/stable/general/welcome []
+    For a more indepth tutorial go here: https://www.youtube.com/watch?v=tjpsedQ-ZbI
