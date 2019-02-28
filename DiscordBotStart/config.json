@@ -1,0 +1,5 @@
+{
+    "token": "Bot Token From: https://discordapp.com/developers/applications/",
+    "ownerID": "OwnerID find the steps to get it here: https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-",
+    "prefix" : "Set this to whatever you want"
+}
